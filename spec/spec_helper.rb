@@ -1,4 +1,5 @@
 require 'jekyll'
+require 'webmock/rspec'
 
 lib = File.expand_path('lib', __dir__)
 
